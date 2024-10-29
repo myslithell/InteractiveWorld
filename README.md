@@ -4,7 +4,7 @@
 ## About this plugin
 Developed for: Unreal Engine
 
-Supported Engine Versions: UE5.0, UE5.1
+Supported Engine Versions: UE5.4
 
 Development Platforms: (Win64)
 
