@@ -35,7 +35,7 @@ bool UInteractBrush::PrepareForDrawing(TArray<TSubclassOf<AWorldDrawingBoard>>& 
 		if (bUseDrawOnlyDrawingBoardsClassList)
 		{
 			bool HasSuitableClass = false;
-			for (const auto Class : NoVolumeDrawingBoardClass)
+			for (const auto & Class : NoVolumeDrawingBoardClass)
 			{
 				if (DrawOnlyDrawingBoardsClassList.Find(Class) != -1)
 				{
