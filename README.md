@@ -1,5 +1,5 @@
 # InteractiveWorld
- Source code of UE marketplace plugin "Interactive World"
+Fork with optimized source code for UE 5.4 marketplace plugin "Interactive World"
 
 ## About this plugin
 Developed for: Unreal Engine
