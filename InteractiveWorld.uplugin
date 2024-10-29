@@ -19,10 +19,7 @@
 		{
 			"Name": "InteractiveWorld",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"PlatformAllowList": [
-				"Win64"
-			]
+			"LoadingPhase": "Default"
 		}
 	]
 }
