@@ -1,6 +1,8 @@
 # InteractiveWorld UE 5.4
 Fork with optimized source code for UE 5.4 marketplace plugin "Interactive World"
 
+Demo project
+https://github.com/LingFengSBH/InteractiveWorldDemo
 (fork owner youtube https://www.youtube.com/@jabkawochkah)
 
 ## About this plugin
