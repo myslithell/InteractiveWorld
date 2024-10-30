@@ -4,7 +4,7 @@ Fork with optimized source code for UE 5.4 marketplace plugin "Interactive World
 Demo project
 https://github.com/LingFengSBH/InteractiveWorldDemo
 
-Fork by https://www.youtube.com/@jabkawochkah
+Video tutorial https://www.youtube.com/watch?v=GEyo9lxOhkg
 
 ## About this plugin
 Developed for: Unreal Engine
